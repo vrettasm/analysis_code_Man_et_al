@@ -2,10 +2,11 @@
 
 ---
 
-This repository contains the analysis code for the paper (accepted for publications at **Nature Communications**):
+This repository contains the analysis code for the paper:
 
 Wing K. Man, Bogachan Tahirbechi, Michail Vrettas, Swapan Preet, Liming Ying, Michele Vendruscolo,
 Alfonso De Simone, Giuliana Fusco. **"Synaptic Vesicles Docking on the Presynaptic Membrane Stabilised by α Synuclein"**.
+Accepted for publications at *Nature Communications*.
 
 ## Abstract
 
