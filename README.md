@@ -1,5 +1,4 @@
 # Analysis code
-
 ---
 
 This repository contains the analysis code for the paper:
@@ -9,7 +8,6 @@ Alfonso De Simone, Giuliana Fusco. **"Synaptic Vesicles Docking on the Presynapt
 by α Synuclein"**. Accepted for publication at *Nature Communications*.
 
 ## Abstract
-
 ---
 
 α-synuclein is a presynaptic protein whose aggregation is associated with the formation of Lewy bodies in Parkinson’s disease.
@@ -21,3 +19,8 @@ in the composition of the presynaptic membrane that are associated with neurodeg
 α-synuclein with the membrane as well as the efficiency by which it stabilises docked synaptic vesicles. Our study identifies the structural
 basis of this underlying mechanism and its relevance in the subtle equilibrium between processes involving α synuclein under functional and
 pathological contexts.
+
+### Contact
+---
+
+For any questions / comments please contact me at: vrettasm@gmail.com
