@@ -20,4 +20,4 @@ in a concentration dependent manner the docking of synaptic vesicles on the inne
 in the composition of the presynaptic membrane that are associated with neurodegenerative diseases alter the interaction properties of
 α-synuclein with the membrane as well as the efficiency by which it stabilises docked synaptic vesicles. Our study identifies the structural
 basis of this underlying mechanism and its relevance in the subtle equilibrium between processes involving α synuclein under functional and
-pathological contexts
+pathological contexts.
