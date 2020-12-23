@@ -1,1 +1,3 @@
-# analysis_code_Man_et_al
+Analysis code for the paper:
+
+Synaptic Vesicles Docking on the Presynaptic Membrane Stabilised by α Synuclein
