@@ -3,9 +3,11 @@
 
 This repository contains the analysis code for the paper:
 
-Wing K. Man, Bogachan Tahirbechi, Michail Vrettas, Swapan Preet, Liming Ying, Michele Vendruscolo,
-Alfonso De Simone, Giuliana Fusco. **"Synaptic Vesicles Docking on the Presynaptic Membrane Stabilised
-by α Synuclein"**. Accepted for publication at *Nature Communications*.
+[Wing K. Man, Bogachan Tahirbechi, Michail D. Vrettas, Swapan Preet, Liming Ying,
+Michele Vendruscolo, Alfonso De Simone, Giuliana Fusco.](https://doi.org/10.1038/s41467-021-21027-4)
+"The docking of synaptic vesicles on the presynaptic membrane induced by α-synuclein is modulated by lipid composition."
+*Nature Communications* **12**, 927 (2021).
+
 
 ## Abstract
 ---
